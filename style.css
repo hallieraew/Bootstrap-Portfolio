@@ -1,0 +1,20 @@
+body {
+    background-image: url(../../../Basic-Portfolio/assets/images/irongrip/irongrip.png);
+}
+
+.hname {
+    color: white;
+    background-color: #4aaaa5;
+    font-size: 14pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px; 
+    margin: 0;
+}
+
+.main {
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 960px;
+    margin: 150px auto;
+    padding: 20px 40px 40px 40px;
+}
