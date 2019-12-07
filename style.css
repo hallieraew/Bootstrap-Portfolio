@@ -14,7 +14,6 @@ body {
     background-color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
     max-width: 960px;
-    margin: 150px auto;
     padding: 20px 40px 40px 40px;
 }
 
@@ -24,10 +23,40 @@ body {
     font-weight: 650;
 }
 
-p {
+.ptxt {
     color: #777777;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 2;
     padding: 10pt;
 
+}
+
+.text {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 20px 0px;
+    text-align: center; 
+    font-size: 12pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    z-index: 3;
+}
+
+.formtext {
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2;
+}
+
+.submit {
+    background-color: #4aaaa5;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 20px 10px 20px;
+    font-size: 12pt; 
+}
+
+.botnav {
+    border-top: 8px solid #4AAAA5;
+    background-color: #666666;
+    padding: 20px;
 }
